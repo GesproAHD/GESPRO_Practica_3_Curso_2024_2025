@@ -96,6 +96,30 @@ A continuación, se detallan los pasos a seguir para posicionarnos en un nuevo c
 
 ---
 
+## **Capturas de pantalla solicitadas**
+
+### GitKraken
+1. **Gráfico de commits del repositorio**
+![image](https://github.com/user-attachments/assets/2dbf055e-8bf5-4cb6-8216-13f27ba14806)
+
+2. **Primer commit**
+![image](https://github.com/user-attachments/assets/b8a7ca87-3d9c-439f-a90f-15e6c6d917d6)
+
+3. **Último commit**
+![image](https://github.com/user-attachments/assets/4637e435-66f0-46e5-b599-407cb85aebb0)
+
+### GitHub
+1. **Insights → Pulse**
+![image](https://github.com/user-attachments/assets/34cb25e3-df84-4156-8202-81124d8f226d)
+
+2. **Insights → Code frequency**
+![image](https://github.com/user-attachments/assets/3e6b4c22-908d-4a94-b301-4ac6f9c5a004)
+
+3. **Relación de PRQs cerradas**
+![image](https://github.com/user-attachments/assets/94fb6d9a-d790-43d9-8fe4-694dfa9b5a16)
+
+---
+
 ## Participantes
 - Aarón del Santo Izquierdo
 - Daniel Miguel Muiña
