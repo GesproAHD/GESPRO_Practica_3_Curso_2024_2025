@@ -3,6 +3,7 @@
 Este README explica los pasos para realizar una simulación de control de versiones utilizando GitKraken (GK) y GitHub (GH). Para esta práctica, trabajaremos con el repositorio "Go Bees" y nuestro repositorio local llamado "GESPRO_PRACTICA_3_CURSO_2024_2025" que abrebiaremos a "P3". 
 A continuación, se detallan los pasos a seguir para posicionarnos en un nuevo commit del repositorio "Go Bees" hasta que los cambios sean visibles en nuestra rama `master` local.
 
+
 ---
 
 ## **Guía completa de acciones**

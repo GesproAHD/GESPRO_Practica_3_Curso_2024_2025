@@ -18,8 +18,7 @@ Los requisitos mínimos para poder hacer uso de la aplicación son:
    superior.
 
 -  Para utilizar la característica de monitorización de la actividad, es
-   necesario tener instalada la aplicación OpenCV Manager.
-   https://play.google.com/store/apps/details?id=org.opencv.engine
+   necesario tener instalada la aplicación `OpenCV Manager <https://play.google.com/store/apps/details?id=org.opencv.engine>`__.
 
 -  También se necesita contar con permiso para acceder a la cámara del
    dispositivo.
@@ -428,7 +427,7 @@ de la aplicación:
 
 \*Si se posee alguna aplicación de ahorro de batería es imprescindible
 añadir una excepción a la aplicación GoBees para que esta se pueda
-ejecutar en segundo plano sin restricciones. Sino, la aplicación puede
+ejecutar en segundo plano sin restricciones. Si no, la aplicación puede
 ser cerrada durante la monitorización.
 
 |monitoring-settings|
